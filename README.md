@@ -88,7 +88,7 @@ To run the PySpark code and explore the analysis, you can use the provided Jupyt
 
 ## Data Source
 
-The Boston Airbnb dataset used in this project is sourced from [Inside Airbnb](https://www.kaggle.com/datasets/airbnb/boston?select=calendar.csv).
+The Boston Airbnb dataset used in this project is sourced from [Boston Airbnb](https://www.kaggle.com/datasets/airbnb/boston?select=calendar.csv).
 
 ## Acknowledgments
 
